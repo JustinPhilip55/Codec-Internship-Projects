@@ -1,0 +1,4 @@
+venv/
+**/venv/
+sms.tsv
+harvard_test.wav
